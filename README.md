@@ -3,6 +3,8 @@ my autostart/sxhkd files for the berry wm.
 
 dependencies:
 
+berry itself (obv)
+
 dmenu
 
 polybar
