@@ -22,7 +22,7 @@ berryc edge_lock   "true"
 berryc set_font    "Tamzen-10"
 
 # wallpaper
-feh --bg-max ~/Downloads/strawb.jpg
+feh --bg-max $HOME/.config/berry/strawb.jpg
 
 # polybar
 polybar mybar
